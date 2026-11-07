@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Separation cache and downloaded models
+.cache/
+
+# Audio (inputs, outputs and stems)
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.m4a
+*.aiff
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
